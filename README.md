@@ -7,13 +7,10 @@ A classic-style 2D Space Invader platformer game built in **pure Java** using `J
 ## 🎮 Features
 
 - 🕹️ Classic side-scrolling shooter mechanics
-- 🚀 Player movement and jumping
-- 👾 Enemy waves with AI behavior
+- 🚀 Player movement
 - 🔫 Shooting projectiles
 - 💥 Collision detection
 - 🖼️ Pixel-style sprite rendering with Java `Canvas`
-- 🔊 Sound effects (optional)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -21,6 +18,6 @@ A classic-style 2D Space Invader platformer game built in **pure Java** using `J
 - **Language**: Java
 - **Graphics**: Java AWT + Swing (`JPanel`, `Canvas`, `Graphics2D`)
 - **Game Loop**: Fixed timestep
-- **Assets**: PNG sprites (custom or retro-style)
+- **Assets**: PNG sprites (retro-style)
 
 ---
